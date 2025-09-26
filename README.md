@@ -31,7 +31,7 @@ If you use this dataset, please cite the original source:
 
 ## Project Structure
 ```bash
-WeedVision/
+Weed_identification/
 ├── data/                # raw and processed data (not tracked in git)
 ├── notebooks/           # Jupyter notebooks for analysis and training
 ├── results/             # models, logs, figures
