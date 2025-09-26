@@ -1,7 +1,7 @@
 # Weed identification
 
 This is a deep learning project for weed classification in winter cereals.  
-It is based on the [Weed Image Dataset (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+The dataset is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Project Goal
 The objective is to develop a robust classification model that can reliably identify seven widespread and hard-to-control weed species.  
@@ -25,9 +25,9 @@ This project serves as an entry point into AI-powered precision agriculture and 
 **Citation:**  
 If you use this dataset, please cite the original source:
 
-> Kitzler, F.; Barta, N.; Neugschwandtner, R.W.; Gronauer, A.; Motsch, V.  
-> WE3DS: An RGB-D Image Dataset for Semantic Segmentation in Agriculture.  
-> *Sensors* 2023, 23, 2713. [https://doi.org/10.3390/s23052713](https://doi.org/10.3390/s23052713)
+> Dainelli, R., Martinelli, M., Bruno, A., Moroni, D., Morelli, S., Silvestri, M., Ferrari, E., Rocchi, L., & Toscano, P. (2023).  
+> *A phenotyping weeds image dataset for open scientific research (v_1_0)* [Data set]. Zenodo.  
+> [https://doi.org/10.5281/zenodo.7598372](https://doi.org/10.5281/zenodo.7598372)
 
 ## Project Structure
 ```bash
